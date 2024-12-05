@@ -1,0 +1,3 @@
+D:/Quraan_project/cmake-build-debug/CMakeFiles/Quraan_project.dir
+D:/Quraan_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Quraan_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
